@@ -2,10 +2,10 @@
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    self-introduction
-   self-diary
+   self-diary/index
    self-achievement/index
    next
