@@ -3,6 +3,5 @@
  
  .. toctree::
     :maxdepth: 2
-    :caption: Contents:
     
     1/contents
