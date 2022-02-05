@@ -6,4 +6,6 @@
    :caption: Contents:
 
    self-introduction
+   self-diary
+   self-achievement
    next
