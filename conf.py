@@ -63,4 +63,4 @@ html_static_path = ['_static']
 #流量统计
 html_js_files = [
     'lixinblog.js'
-]r
+]
