@@ -4,4 +4,4 @@
  .. toctree::
     :maxdepth: 2
     
-    论文/地震动扭转分量对大跨度斜拉桥易损性影响
+    论文/contents
