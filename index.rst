@@ -6,4 +6,3 @@
    :caption: Contents:
 
    self-introduction
-
