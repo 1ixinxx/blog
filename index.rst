@@ -6,6 +6,6 @@
    :caption: Contents:
 
    self-introduction
-   self-diary/index
+   self-diary
    self-achievement/index
    next
