@@ -8,7 +8,7 @@
 
   2.8上映，就是排片依旧惨不忍睹，年基本已经过完了，票房应该后继乏力了，我还是很期待这个电影的，咋就这样了
 
-..figure:_static/gif.png
+ .. figure:_static/gif.png
    :alt: 狙击手排片
    :align: center
    :caption: 狙击手排片
