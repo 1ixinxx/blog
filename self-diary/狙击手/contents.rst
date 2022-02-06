@@ -11,6 +11,4 @@
 .. image:: _static/gif.png
    :align: center
    :alt: 狙击手排片
-   :width: 5.63529in
-   :height: 0.97222in
 
