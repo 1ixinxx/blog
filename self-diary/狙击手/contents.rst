@@ -11,6 +11,4 @@
 .. image:: _static/gif.png
    :align: center
    :alt: 狙击手排片
-   :width: 20
-   :hidth: 60
 
