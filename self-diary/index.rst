@@ -2,7 +2,7 @@
 ====================================
  
  .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
     
     狙击手/contents
-    冬奥会/谷爱凌/contents
+    冬奥会/index
