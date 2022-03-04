@@ -66,7 +66,7 @@ html_js_files = [
     'js/lixinblog.js'
 ]
 #评论
-html_comments = [
+html_theme = [
     'html/comments.html'
 ]
 
