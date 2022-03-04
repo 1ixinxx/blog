@@ -66,10 +66,4 @@ html_js_files = [
     'js/lixinblog.js'
 ]
 #
-<script src="https://utteranc.es/client.js"
-        repo="https://github.com/1ixinxx/blog.git"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+utterances = 'true'
