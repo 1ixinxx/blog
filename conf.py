@@ -67,8 +67,8 @@ html_js_files = [
 ]
 #
 utterance = [
-  enable: true
-  repo: 'yansheng836/yansheng836.github.io'    
-  issue_term: 'title'           
-  theme: 'github-light'         
+  enable = true
+  repo = 'https://github.com/1ixinxx/blog.git'    
+  issue_term = 'title'           
+  theme = 'github-light'         
 ]
