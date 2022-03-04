@@ -67,7 +67,7 @@ html_js_files = [
 ]
 #评论
 [params.utteranc]
-  enable = true
-  repo = "comments.html" 
-  issueTerm = "pathname"
-  theme = "github-light"
+enable = true
+repo = "comments.html" 
+issueTerm = "pathname"
+theme = "github-light"
