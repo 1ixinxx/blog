@@ -65,3 +65,9 @@ html_static_path = ['_static']
 html_js_files = [
     'js/lixinblog.js'
 ]
+#评论
+[params.utteranc]
+  enable = true
+  repo = "blog/comments.html" 
+  issueTerm = "pathname"
+  theme = "github-light"
