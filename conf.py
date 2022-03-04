@@ -67,6 +67,6 @@ html_js_files = [
 ]
 #评论
 html_comments = [
-    'comments.html'
+    'html/comments.html'
 ]
 
