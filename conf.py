@@ -66,8 +66,9 @@ html_js_files = [
     'js/lixinblog.js'
 ]
 #
-utterance:
+utterance = [
   enable: true
   repo: 'yansheng836/yansheng836.github.io'    
   issue_term: 'title'           
   theme: 'github-light'         
+]
