@@ -12,4 +12,4 @@
 3. 编辑器
 -------------------
   首先需要下载OpenSees，并将其加入环境变量。
-  OpenSees下载链接：download:`here <OpenSees.rar>`.
+  OpenSees下载链接 :download:`here <OpenSees.rar>`.
