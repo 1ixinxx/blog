@@ -19,10 +19,10 @@
 * 下载visual studio code，并配置opensees环境：
     .. image:: vscode准备.jpg
 * 附利用python将mp4转化为gif的代码：
-  from moviepy.editor import *
-  s = 1
-  while s <2:
-      clip = VideoFileClip("C:\\Users\Lenovo\Desktop\\%s.mp4"%s).subclip(0,40).set_fps(14).resize(0.5)
-      clip.write_gif("C:\\Users\Lenovo\Desktop\\%s.gif"%s)
-      s += 1
+    from moviepy.editor import *
+    s = 1
+    while s <2:
+        clip = VideoFileClip("C:\\Users\Lenovo\Desktop\\%s.mp4"%s).subclip(0,40).set_fps(14).resize(0.5)
+        clip.write_gif("C:\\Users\Lenovo\Desktop\\%s.gif"%s)
+        s += 1
 
