@@ -8,5 +8,4 @@
    self-introduction
    self-diary/index
    self-achievement/index
-   opensees教程/index
    next
