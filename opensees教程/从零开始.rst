@@ -24,3 +24,5 @@
   :alt: 添加系统变量
   :width: 5.63529in
   :height: 0.97222in    
+    下载visual studio code，并配置opensees环境：
+    
