@@ -16,3 +16,5 @@
     环境变量添加流程：
 .. image:: opensees路径.png
   :align: center
+  :alt: 复制opensees程序所在路径
+    
