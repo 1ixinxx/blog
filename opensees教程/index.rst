@@ -2,6 +2,6 @@ opensees教程
 ====================================
  
  .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     
     从零开始.rst
