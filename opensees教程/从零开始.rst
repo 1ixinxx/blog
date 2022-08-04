@@ -15,6 +15,3 @@
   OpenSees下载链接 :download:`here <OpenSees.rar>`.
   #. 下载visual studio code，并配置opensees环境。其中包含tcl和python。
   visual studio code下载链接 :download:`here <OpenSees.rar>`.
-  
-  #. The source code is shown below, which can be downloaded :download:`here </pyExamples/ElasticTruss.py>`.
-#. Run the source code in your favorite Python program and should see ``Passed!`` in the results.
