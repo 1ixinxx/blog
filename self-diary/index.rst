@@ -3,6 +3,3 @@
  
  .. toctree::
     :maxdepth: 2
-    
-    狙击手/contents
-    冬奥会/index
