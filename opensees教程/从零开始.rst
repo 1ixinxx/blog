@@ -11,7 +11,5 @@
     OpenSees有两种解释器，一种是基于tcl语言的解释器，由于最初的OpenSees便是采用这种解释器，所以应用的最为广泛，相信现在大多数人都是用这种解释器，为便于和他人对模型源代码进行沟通，需要学习基于该解释器的建模方法。另一种是基于python的解释器，由于python库的功能十分强大，有助于OpenSees建模的前、处理，所以个人建议在科研过程中，可采用该方法进行建模，极大的方便了数据处理。所以此后我会介绍两种opensees建模方法，并陆续出一系列教程。
 3. 编辑器
 -------------------
-  #. 需要下载OpenSees，并将其加入环境变量。
-  OpenSees下载链接 :download:`here <OpenSees.rar>`.
-  #. 下载visual studio code，并配置opensees环境。其中包含tcl和python。
-  visual studio code下载链接 :download:`here <OpenSees.rar>`.
+  #. 需要下载OpenSees，并将其加入环境变量。OpenSees下载链接 :download:`here <OpenSees.rar>`.
+  #. 下载visual studio code，并配置opensees环境。其中包含tcl和python。visual studio code下载链接 :download:`here <OpenSees.rar>`.
