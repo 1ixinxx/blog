@@ -17,13 +17,10 @@
 .. image:: opensees路径.png
   :align: center
   :alt: 复制opensees程序所在路径
-  :width: 5.63529in
-  :height: 0.97222in
   
 .. image:: 添加系统变量.png
   :align: center
-  :alt: 添加系统变量
-  :width: 5.63529in
-  :height: 0.97222in    
+  :alt: 添加系统变量 
+ 
     下载visual studio code，并配置opensees环境：
     
