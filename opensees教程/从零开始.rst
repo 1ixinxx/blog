@@ -18,6 +18,7 @@
     .. image:: 添加系统变量.png
 * 下载visual studio code，并配置opensees环境：
     .. image:: vscode准备.jpg
+    .. image:: 使用方法.jpg 
 * 附利用python将mp4转化为gif的代码：
     from moviepy.editor import *
     s = 1
