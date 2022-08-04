@@ -17,5 +17,5 @@
     .. image:: opensees路径.png
     .. image:: 添加系统变量.png
 * 下载visual studio code，并配置opensees环境：
-
+    .. image:: vscode准备.jpg
     
