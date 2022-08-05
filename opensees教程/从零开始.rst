@@ -27,7 +27,7 @@
           clip.write_gif("C:\\Users\Lenovo\Desktop\\%s.gif"%s)
           s += 1
 * 视频教程（更为详细）：
-------------------------------
+
 .. raw:: html
 
 <iframe src="<iframe src="//player.bilibili.com/player.html?aid=856743684&bvid=BV1bV4y1x76c&cid=794201756&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
