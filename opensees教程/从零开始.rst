@@ -18,7 +18,7 @@
     .. image:: 添加系统变量.png
 * 下载visual studio code，并配置opensees环境：
     .. image:: vscode准备.jpg
-    .. image:: 使用方法.jpg 
+    .. image:: 使用方法.jpg  
 * 附利用python将mp4转化为gif的代码：
     from moviepy.editor import *
       s = 1
@@ -26,4 +26,7 @@
           clip = VideoFileClip("C:\\Users\Lenovo\Desktop\\%s.mp4"%s).subclip(0,40).set_fps(14).resize(0.5)
           clip.write_gif("C:\\Users\Lenovo\Desktop\\%s.gif"%s)
           s += 1
+* 视频教程（更为详细）：
+.. raw:: html
 
+<iframe height=498 width=510 src='https://www.bilibili.com/video/BV1bV4y1x76c?spm_id_from=333.999.0.0&vd_source=b530838c1f52a4140cbe61805d799668&t=36.5' frameborder=0 'allowfullscreen'></iframe>
