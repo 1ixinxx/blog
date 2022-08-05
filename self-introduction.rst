@@ -3,4 +3,4 @@
 
 李新，目前博士就读于北京交通大学。专业方向：土木工程防灾减灾。
 
-如有问题，请关注公众号（lixinsblog）、联系邮箱（lixin_eq@bjtu.edu.cn）或访问b站账号（小李说科研）。
+如有问题，请关注公众号（lixinsblog）、联系邮箱（lixin_eq@bjtu.edu.cn）或访问b站账号（小李谈科研）。
